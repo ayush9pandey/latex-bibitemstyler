@@ -22,6 +22,8 @@ This project currently has two flavors:
 
 If you found this useful, please drop us a line! Reviews and suggestions are very welcome!
 
+Great Tool! Thanks. I could sort my references with ease. This README edit is the least I could do.
+
 ---------------------------------------
 
 ### Usage: .NET application
